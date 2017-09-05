@@ -1,4 +1,5 @@
-抱歉本机没有关系型数据库环境，再者个人对关系型数据库数量度不高，因此本次demo仍然使用mongodb
+抱歉本机没有关系型数据库环境，近期一直使用非关系型数据库开发
+为了尽快提交demo，本次demo仍然使用mongodb
 
 第一个API
 http://localhost:3000/start-level?level=2?uid=1000
